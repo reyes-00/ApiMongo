@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12",
+    "mongose": "^0.0.2-security"
+  },
+  "name": "api",
+  "version": "1.0.0",
+  "description": "fullstack",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  },
+  "scripts": {
+    "dev": "nodemon ./index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

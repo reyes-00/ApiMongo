@@ -19,7 +19,7 @@ mongoose.connect('mongodb://localhost/veterinaria',{
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }))
 
-// habilitar router for
+// habilitar router 
 app.use('/', routes())
 
 

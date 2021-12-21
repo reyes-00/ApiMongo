@@ -12,7 +12,7 @@
     "nodemon": "^2.0.14"
   },
   "scripts": {
-    "dev": "nodemon ./index.js"
+    "dev": "node ./index.js"
   },
   "author": "",
   "license": "ISC"
